@@ -4,7 +4,7 @@ JSTemplate is a project that uses JavaScript Nashorn to build dynamic templates.
 
 ## Getting Started
 
-Download JSTemplateShowCase.jar and play around.
+Download <a href="https://github.com/helliu/JSTemplate/blob/master/JSTemplateShowCase.jar">JSTemplateShowCase.jar</a> and play around.
 <br/>
 ```java
 <#
@@ -26,7 +26,7 @@ public class HelloWorld{
 ```
 
 ### Installing
-Download JSTemplate.jar.
+Download <a href="https://github.com/helliu/JSTemplate/blob/master/bin/JSTemplate.jar">JSTemplate.jar</a>.
 <br />
 Call by command line:
 ```
